@@ -3,7 +3,7 @@
 //Otherwise we check to see if one of the numbers but not both numbers is a negative. 
 //Next we add a - if this is the case.
 // Then we can add our integer to the result because we know it cannot be repeating.
-// Now, we have our declared a map for long remainder to it's position in result.
+// Now, we can declare a new map for long remainder to it's position in result.
 // From here, we can get the first remainder and add a 0 to it by multiplying it by 10.
 // We know the next digit is the remainder/denominator. 
 //If we have already seen the remainder we add the ( to the position we saw it, 
