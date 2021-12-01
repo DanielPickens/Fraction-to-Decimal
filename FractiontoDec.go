@@ -1,5 +1,5 @@
-// First, we can check to see if the number is an integer (remainder of numerator/denominator is 0) if it is,
-//we simply will return the number.
+// First, we can check to see if the number is an integer (remainder of numerator/denominator is 0), and if it is,
+//we can simply return the number.
 //Otherwise we'll check to see if one of the numbers but not both numbers is a negative. 
 //Next we add a - if this is the case.
 // Then we can add our integer to the result because we know it cannot be repeating.
